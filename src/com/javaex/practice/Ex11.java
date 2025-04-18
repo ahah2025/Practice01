@@ -1,15 +1,17 @@
 package com.javaex.practice;
 
 public class Ex11 {
+	
 	public static void main(String[]args) {
+		
 		int iVar = 10;
 		System.out.println(iVar);
 		
 		long IVal = 100000000000000L;
 		System.out.println(IVal);
 		
-		char cVar='f';
-		System.out.println(cVar); //ab는 입력이 안됨 'f'
+		String cVar="ab";
+		System.out.println(cVar); 
 		
 		double dVar = 10;
 		System.out.println(dVar); //10.0

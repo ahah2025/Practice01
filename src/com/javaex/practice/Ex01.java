@@ -4,14 +4,14 @@ public class Ex01 {
 	
 	public static void main(String[] args) {
 		
-		/*
-		다음중 기본 자료형중 정수형자료형이 아닌 것은?
-				정답 : (2)float
-		
-				(1)	int
-				(2)	float
-				(3)	byte
-				(4)	long
-		*/
+		int a = 10; //정수형 
+		float b = 20; //실수형 (소수점으로 표시됨)
+		byte c = 30; //정수형
+		long d = 40; //정수형
+ 		
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(c);
+		System.out.println(d);
 	}
 }
