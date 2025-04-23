@@ -15,7 +15,7 @@ public class Ex29 {
 		double height = sc.nextDouble(); //높이
 		
 		System.out.println("사각형의 넓이는 "+ width*height);
-		System.out.print("사각형의 둘레는 "+ 2*(width*height));
+		System.out.print("사각형의 둘레는 "+ (width*height+2));
 		
 		
 		sc.close();
