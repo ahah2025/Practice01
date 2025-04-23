@@ -12,4 +12,6 @@ public class Hello { //소문자 hello
 
 }
 
-//public class hello 에서 h가 소문자가 아니라 대문자로 사용해야 함
+/*class name이 hello 에서 h 대문자로 시작해야 함 
+클래스명은 대문자로 시작해야 하기 때문
+문제에는 소문자로 시작하고 있음*/
